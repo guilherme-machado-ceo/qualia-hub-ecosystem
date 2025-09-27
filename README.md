@@ -22,4 +22,16 @@ Mais informações sobre como contribuir serão adicionadas em breve.
 [Informações sobre a licença serão adicionadas aqui.]
 ](LICENSE)
 
+---
+
+## Módulo de Integração Quântica Hubstry
+
+Esta seção descreve a expansão do projeto para integrar simulação e emulação quântica com o **Protocolo Harmônico Hubstry**, conforme detalhado no whitepaper `docs/whitepaper_hubstry_integration.md`.
+
+### Novos Diretórios
+
+*   `quantum-simulation/`: Contém implementações de simulação quântica (ex: algoritmos adiabáticos) que modelam o comportamento de sistemas quânticos sobre a estrutura harmônica do Hubstry. A linguagem principal para esta área é **Rust**.
+*   `quantum-emulation/`: Contém emuladores que reproduzem fenômenos quânticos em hardware clássico (ex: emulação de QKD para segurança). A linguagem principal é **Rust**.
+*   `harmonic-mapping/`: Inclui algoritmos para mapear e converter séries harmônicas em estados quânticos (qubits). Esta área utiliza **Python** para prototipagem e análise matemática.
+*   `integration-tests/`: Provas de conceito e testes que validam a integração entre a camada quântica e o protocolo Hubstry IoT.
 
