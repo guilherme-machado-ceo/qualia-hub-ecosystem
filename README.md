@@ -1,39 +1,42 @@
-# Projeto QIQU - Quantum Intelligence Quotient Unit
-**(English Version Below)**
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6d25jZ3A3c3J5bGl6cjVuc2p1b2d1Z2s5bXN0Y3N3cnh6ZDY2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h4rQ23pB3aA3m/giphy.gif" width="200"/>
+  <h1>QIQU Project — Harmonic Quantum Intelligence</h1>
+  <p>Um núcleo de exploração em computação quântica, IA e protocolos harmônicos.</p>
+  <p>An exploratory hub for quantum computing, AI, and harmonic protocols.</p>
 
-Este repositório contém o planejamento e os artefatos tecnológicos para o projeto QIQU (Quantum Intelligence Quotient Unit) da Hubstry DeepTech. O QIQU é um núcleo conceitual e exploratório dedicado ao monitoramento, pesquisa teórica e construção de uma visão estratégica no campo da computação quântica, com foco em Inteligência Artificial, criptografia, linguagens de programação e infraestrutura de dados.
+  <p>
+    <a href="https://github.com/guilherme-machado-ceo/qiqu-project/actions">
+      <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
+    </a>
+    <a href="#">
+      <img alt="Version" src="https://img.shields.io/badge/version-v1.0-blue?style=for-the-badge">
+    </a>
+    <a href="#">
+      <img alt="Languages" src="https://img.shields.io/badge/languages-Rust%20%7C%20Python-orange?style=for-the-badge">
+    </a>
+  </p>
 
----
-
-# QIQU Project - Quantum Intelligence Quotient Unit
-
-This repository contains the planning and technological artifacts for the QIQU (Quantum Intelligence Quotient Unit) project by Hubstry DeepTech. QIQU is a conceptual and exploratory hub dedicated to monitoring, theoretical research, and building a strategic vision in the field of quantum computing, with a focus on Artificial Intelligence, cryptography, programming languages, and data infrastructure.
-
----
-
-## Conteúdo do Repositório / Repository Content
-
-### Módulos Originais / Original Modules
-*   `planejamento_expansao_qiqu.md`: Documento detalhando o planejamento da expansão original. / Document detailing the original expansion plan.
-*   `docs/`: Diretório para documentação adicional. / Directory for additional documentation.
-*   `gurudev-qc-sdk/`: SDK (Software Development Kit) para Gurudev-QC. / SDK for Gurudev-QC.
-*   `quantum-circuit-visualizer/`: Visualizador de circuitos quânticos. / Quantum circuit visualizer.
-*   `quantum-ai-demos/`: Aplicações demonstrativas de IA Quântica. / Demo applications for Quantum AI.
-*   `post-quantum-crypto-demos/`: Demonstrações de criptografia pós-quântica. / Demos for post-quantum cryptography.
-*   `qiqu-portal/`: Portal web do QIQU. / QIQU web portal.
-*   `data/`: Conjuntos de dados quânticos e modelos. / Quantum datasets and models.
-
-### Módulo de Integração Quântica Hubstry / Hubstry Quantum Integration Module
-Esta seção descreve a expansão do projeto para integrar simulação e emulação quântica com o **Protocolo Harmônico Hubstry**. / This section describes the project's expansion to integrate quantum simulation and emulation with the **Hubstry Harmonic Protocol**.
-
-*   `quantum-simulation/`: Implementações de simulação quântica (e.g., algoritmos adiabáticos) em **Rust**. / Quantum simulation implementations (e.g., adiabatic algorithms) in **Rust**.
-*   `quantum-emulation/`: Emuladores para reproduzir fenômenos quânticos (e.g., QKD) em **Rust**. / Emulators to reproduce quantum phenomena (e.g., QKD) in **Rust**.
-*   `harmonic-mapping/`: Algoritmos em **Python** para mapear séries harmônicas para estados quânticos. / **Python** algorithms for mapping harmonic series to quantum states.
-*   `integration-tests/`: Testes de integração entre a camada quântica e o protocolo Hubstry IoT. / Integration tests between the quantum layer and the Hubstry IoT protocol.
+  <p>
+    🌐 <strong>Languages</strong>:
+    <a href="docs/README_pt.md">🇧🇷 Português</a> |
+    <a href="docs/README_en.md">🇺🇸 English</a>
+  </p>
+</div>
 
 ---
 
-## Repositórios de Referência / Reference Repositories
+## 🚀 Módulos do Projeto / Project Modules
+
+| Módulo / Module          | Descrição / Description                                 | Status / Status     |
+| ------------------------ | ------------------------------------------------------- | ------------------- |
+| 🧠 **Simulação**         | Simulador quântico baseado em harmônicos. / Harmonic-based quantum simulator. | ✅ `Stable`         |
+| 🔐 **Emulação**          | Emulação quântica para segurança e DSP. / Quantum emulation for security & DSP. | 🧪 `Testing`        |
+| 🎼 **Mapeamento**        | Compilador de harmônicos para qubits. / Harmonic-to-qubit compiler. | 🚧 `In progress`    |
+| 🌐 **Portal Web**        | Interface interativa para visualização. / Interactive portal for visualization. | 🏗️ `Planned`        |
+
+---
+
+## 🔗 Repositórios de Referência / Reference Repositories
 
 O módulo de integração quântica é baseado nos seguintes repositórios originais da tecnologia Hubstry. / The quantum integration module is based on the following original repositories of the Hubstry technology.
 
@@ -42,11 +45,6 @@ O módulo de integração quântica é baseado nos seguintes repositórios origi
 
 ---
 
-## Como Contribuir / How to Contribute
-
-Mais informações sobre como contribuir serão adicionadas em breve. / More information on how to contribute will be added soon.
-
-## Licença / License
-
-[Informações sobre a licença serão adicionadas aqui. / License information will be added here.]
-](LICENSE)
+> Para uma descrição detalhada de todos os arquivos do repositório, por favor, acesse os documentos em [🇧🇷 Português](docs/README_pt.md) ou [🇺🇸 English](docs/README_en.md).
+>
+> For a detailed description of all repository files, please access the documents in [🇧🇷 Portuguese](docs/README_pt.md) or [🇺🇸 English](docs/README_en.md).
