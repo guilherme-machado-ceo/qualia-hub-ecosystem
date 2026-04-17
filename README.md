@@ -1,57 +1,96 @@
-<div align="center">
-  <h1>QIQU Project — Harmonic Quantum Intelligence</h1>
-  <p>Um núcleo de exploração em computação quântica, IA e protocolos harmônicos.</p>
-  <p>An exploratory hub for quantum computing, AI, and harmonic protocols.</p>
+# Qualia Hub Ecosystem
 
-  <p>
-    <a href="https://github.com/guilherme-machado-ceo/qiqu-project/actions">
-      <img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge">
-    </a>
-    <a href="https://vercel.com">
-        <img src="https://img.shields.io/badge/Vercel-live-cyan?style=for-the-badge&logo=vercel" alt="Deployed on Vercel">
-    </a>
-    <a href="#">
-      <img alt="Languages" src="https://img.shields.io/badge/languages-Rust%20%7C%20Python%20%7C%20TS-blue?style=for-the-badge">
-    </a>
-  </p>
+**Harmonic Quantum Intelligence — Hub do Ecossistema Hubstry Deep Tech**
 
-  <p>
-    🌐 <strong>Languages</strong>:
-    <a href="docs/README_pt.md">🇧🇷 Português</a> |
-    <a href="docs/README_en.md">🇺🇸 English</a>
-  </p>
-</div>
+> *Qualia*: as propriedades qualitativas subjetivas da experiência.
+> Aqui: a qualidade intrínseca dos estados quânticos
+> e a profundidade semântica dos sistemas de inteligência.
+
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/guilherme-machado-ceo/qualia-hub-ecosystem/actions)
+[![Languages](https://img.shields.io/badge/languages-Rust%20%7C%20Python%20%7C%20TS-blue?style=for-the-badge)](#)
+[![Ecosystem](https://img.shields.io/badge/Hubstry-Deep%20Tech-4a9eff?style=for-the-badge)](https://hubstry.dev)
+
+🌐 **Languages**:
+[🇧🇷 Português](docs/README_pt.md) | [🇺🇸 English](docs/README_en.md)
 
 ---
 
-## 🚀 Live Preview
+## O que é este repositório
 
-Uma pré-visualização da nossa interface high-tech está disponível. / A preview of our high-tech interface is available.
+O **Qualia Hub Ecosystem** é o hub quântico central do ecossistema
+[Hubstry Deep Tech](https://hubstry.dev). Não é um projeto —
+é uma **plataforma de infraestrutura semântica e quântica**
+que conecta múltiplas frentes de pesquisa e desenvolvimento.
 
-**[Visite o Portal QIQU / Visit the QIQU Portal](https://qiqu-portal-placeholder.vercel.app/)**
-
-*(O portal está localizado no diretório `/qiqu-portal`. / The portal is located in the `/qiqu-portal` directory.)*
-
----
-
-## ⚙️ Módulos do Projeto / Project Modules
-
-| Módulo / Module          | Descrição / Description                                 | Status / Status     |
-| ------------------------ | ------------------------------------------------------- | ------------------- |
-| 🧠 **Simulação**         | Simulador quântico baseado em harmônicos. / Harmonic-based quantum simulator. | ✅ `Stable`         |
-| 🔐 **Emulação**          | Emulação quântica para segurança e DSP. / Quantum emulation for security & DSP. | 🧪 `Testing`        |
-| 🎼 **Mapeamento**        | Compilador de harmônicos para qubits. / Harmonic-to-qubit compiler. | 🚧 `In progress`    |
-| 🌐 **Portal Web**        | Interface interativa para visualização. / Interactive portal for visualization. | 🚀 `Live Preview`   |
+A tecnologia proprietária central é a **IPII — Interação Paramétrica
+Iterativa por Interoperabilidade**: um engine de matching semântico
+entre sistemas formais heterogêneos, instanciável em qualquer domínio
+onde vocabulários distintos precisem se comunicar com preservação
+de significado.
 
 ---
 
-## 🔗 Repositórios de Referência / Reference Repositories
+## Módulos Quânticos
 
-*   **Hubstry HALE Ecosystem**: [https://github.com/guilherme-machado-ceo/hubstry-hale-ecosystem](https://github.com/guilherme-machado-ceo/hubstry-hale-ecosystem)
-*   **IoT Protocol Hubstry**: [https://github.com/guilherme-machado-ceo/iot-protocol-hubstry](https://github.com/guilherme-machado-ceo/iot-protocol-hubstry)
+| Módulo | Descrição | Status |
+|--------|-----------|--------|
+| 🧠 **Simulador Harmônico** | Simulador quântico baseado em harmônicos | ✅ Stable |
+| 🔐 **Emulação Quântica** | Emulação para segurança e DSP | 🧪 Testing |
+| 🎼 **Compilador Harmônico** | Compilador de harmônicos para qubits | 🚧 In progress |
+| ⚛️ **GuruDev QC SDK** | SDK quântico da linguagem GuruDev® | 🚧 In progress |
+| 🔑 **QuantumReady** | Framework de migração para criptografia PQC | 📋 Spec |
+| 🌐 **Portal Web** | Interface interativa de visualização | 🚀 Live |
 
 ---
 
-> Para a documentação original do projeto, por favor, acesse os documentos em [🇧🇷 Português](docs/README_pt.md) ou [🇺🇸 English](docs/README_en.md).
->
-> For the original project documentation, please access the documents in [🇧🇷 Portuguese](docs/README_pt.md) or [🇺🇸 English](docs/README_en.md).
+## Instâncias IPII
+
+A IPII opera como tecnologia de propósito geral.
+Cada instância aplica o engine a um domínio específico:
+
+| Instância | Domínio | Arquivo |
+|-----------|---------|---------|
+| **LexScan** | Compliance normativo | [instances/lexscan/](instances/lexscan/) |
+| **LexGraph** | Arquitetura regulatória | [instances/lexgraph/](instances/lexgraph/) |
+| **BELLUM** | Dual-use AI / DIH | [instances/bellum/](instances/bellum/) |
+| **QuantumReady** | Migração criptográfica PQC | [quantum/quantum-ready/](quantum/quantum-ready/) |
+| **GuruDev®** | Programação comparada | [instances/gurudev/](instances/gurudev/) |
+
+---
+
+## Ecossistema
+
+```
+Qualia Hub Ecosystem
+│
+├── 🏛️  Hubstry Deep Tech          https://hubstry.dev
+│         Engine central do ecossistema. CaaS em Rust.
+│
+├── ⚖️  Gonçalves et Alii           https://goncalvesetalii.github.io
+│         Braço jurídico-tecnológico. LexScan e LexGraph em produção.
+│
+├── 🧠  Gabinete Polimata           https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/
+│         Think tank vivo. Pesquisa, MVPs e PoCs do ecossistema.
+│
+├── 🔬  Instituto PCIHᶟ             (em construção)
+│         Pesquisa ICT e fomento público.
+│
+├── 🤖  HALE Ecosystem              https://github.com/guilherme-machado-ceo/hubstry-hale-ecosystem
+│         Infraestrutura de hardware e automação.
+│
+└── 📡  IoT Protocol Hubstry        https://github.com/guilherme-machado-ceo/iot-protocol-hubstry
+          Protocolo IoT do ecossistema.
+```
+
+---
+
+## Contato
+
+📩 guihermemachado.ceo@hubstry.dev
+🌐 [hubstry.dev](https://hubstry.dev)
+⚖️ [goncalvesetalii.github.io](https://goncalvesetalii.github.io)
+
+---
+
+*Rio de Janeiro — em construção permanente.*
+*© 2026 Hubstry Deep Tech. Fundada em 2023.*
